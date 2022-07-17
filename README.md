@@ -57,4 +57,6 @@ Then fill out values in `.env` file. Note that you'll need to obtain credentials
 
 `yarn start`
 
-Major inspiration : defund 
+### Inspiration
+
+ defund 
