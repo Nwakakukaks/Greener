@@ -2,6 +2,19 @@
 
 Greener is a decentralized platform for raising funds for environmental causes. 
 
+### Technologies utilized
+
+Chainlink price feeds are used to securely convert donations made in crypto to fiat
+equivalents, e.g. ETH to USD.
+
+Chainlink Keepers are used to automate recurring payments made from donors to
+fundraisers.
+
+Moralis is used for smooth web3 experience.
+
+Web3.Storage powered by Filecoin is used to store fundraiser descriptions and images in
+a decentralized manner without the cost of on-chain storage.
+
 
 ## Repository folder structure:
 - `contracts` contains Solidity smart contracts and tooling to develop, test and deploy it (Hardhat)
